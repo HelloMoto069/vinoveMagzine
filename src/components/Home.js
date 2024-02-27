@@ -40,7 +40,16 @@ function Home() {
               REDUX
             </Badge>
             <Badge ml="1" colorScheme="green">
+              REACT-ROUTER V6
+            </Badge>
+            <Badge ml="1" colorScheme="green">
               CHAKRA-UI
+            </Badge>
+            <Badge ml="1" colorScheme="green">
+              HTML
+            </Badge>
+            <Badge ml="1" colorScheme="green">
+              JAVASCRIPT
             </Badge>
           </Text>
         </div>
