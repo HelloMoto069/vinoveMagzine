@@ -36,5 +36,20 @@
     transform: rotate(360deg);
   }
 }
+@media (min-width: 800px) {
+  .SearchResultCard {
+    border-color: black;
+    border-width: 2px;
+    margin: 17px;
+    width: 45%;
+  }
+}
 
-
+@media (max-width: 800px) {
+  .SearchResultCard {
+    border-color: black;
+    border-width: 2px;
+    margin: 17px;
+    /* width: 45%; */
+  }
+}

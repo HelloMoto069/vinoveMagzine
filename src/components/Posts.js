@@ -11,6 +11,7 @@ import ChakraCard from "./ChakraCard";
 import { Button, Input } from "@chakra-ui/react";
 import Lottie from "lottie-react";
 import LoadingLot from "../lottieFiles/LoadingLot.json";
+import "../App.css";
 
 const defaultThumbnail =
   "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2022/08/BMD-3398.png";
@@ -100,13 +101,14 @@ function Posts() {
             >
               {searchResults.map((result) => (
                 <div
+                  className="SearchResultCard"
                   key={result.id}
-                  style={{
-                    borderColor: "black",
-                    borderWidth: 2,
-                    margin: 17,
-                    width: "45%",
-                  }}
+                  // style={{
+                  //   borderColor: "black",
+                  //   borderWidth: 2,
+                  //   margin: 17,
+                  //   width: "45%",
+                  // }}
                 >
                   <a
                     href={result.webUrl}
