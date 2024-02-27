@@ -1,0 +1,82 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 2485997,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 248600,
+    "orderBy": "newest",
+    "results": [
+      {
+        "id": "australia-news/live/2024/feb/27/australia-politics-live-scott-morrison-valedictory-speech-anthony-albanese-polls-dunkley-byelection-peter-dutton-question-time",
+        "type": "liveblog",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webPublicationDate": "2024-02-27T06:11:09Z",
+        "webTitle": "Australia politics live: Angus Taylor among Coalition MPs ejected from question time amid fuel efficiency standard debate",
+        "webUrl": "https://www.theguardian.com/australia-news/live/2024/feb/27/australia-politics-live-scott-morrison-valedictory-speech-anthony-albanese-polls-dunkley-byelection-peter-dutton-question-time",
+        "apiUrl": "https://content.guardianapis.com/australia-news/live/2024/feb/27/australia-politics-live-scott-morrison-valedictory-speech-anthony-albanese-polls-dunkley-byelection-peter-dutton-question-time",
+        "fields": {
+          "headline": "Australia politics live: Angus Taylor among Coalition MPs ejected from question time amid fuel efficiency standard debate",
+          "thumbnail": "https://media.guim.co.uk/a2d49c6b1001917e40b9ac2f70b74c31c8194796/0_365_5472_3283/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "australia-news/2024/feb/27/gladys-berejiklian-icac-corruption-appeal-daryl-maguire",
+        "type": "article",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webPublicationDate": "2024-02-27T06:02:29Z",
+        "webTitle": "Daryl Maguire had ‘emotional hold’ over Gladys Berejiklian, Icac lawyer tells court ",
+        "webUrl": "https://www.theguardian.com/australia-news/2024/feb/27/gladys-berejiklian-icac-corruption-appeal-daryl-maguire",
+        "apiUrl": "https://content.guardianapis.com/australia-news/2024/feb/27/gladys-berejiklian-icac-corruption-appeal-daryl-maguire",
+        "fields": {
+          "headline": "Daryl Maguire had ‘emotional hold’ over Gladys Berejiklian, Icac lawyer tells court ",
+          "thumbnail": "https://media.guim.co.uk/51a2c41d680519e2b5dba9943c6eaebb5c000e5f/89_0_4164_2498/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/news",
+        "pillarName": "News"
+      },
+      {
+        "id": "tv-and-radio/2024/feb/27/tv-tonight-a-peek-inside-the-world-of-a-modelling-agency",
+        "type": "article",
+        "sectionId": "tv-and-radio",
+        "sectionName": "Television & radio",
+        "webPublicationDate": "2024-02-27T06:00:13Z",
+        "webTitle": "TV tonight: a peek inside the world of a modelling agency",
+        "webUrl": "https://www.theguardian.com/tv-and-radio/2024/feb/27/tv-tonight-a-peek-inside-the-world-of-a-modelling-agency",
+        "apiUrl": "https://content.guardianapis.com/tv-and-radio/2024/feb/27/tv-tonight-a-peek-inside-the-world-of-a-modelling-agency",
+        "fields": {
+          "headline": "TV tonight: a peek inside the world of a modelling agency",
+          "thumbnail": "https://media.guim.co.uk/e059356df16cd3485b359289cd384f0ad7e045f5/120_0_1800_1080/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "commentisfree/2024/feb/27/british-people-poverty-conservatives-cut-cut-cut",
+        "type": "article",
+        "sectionId": "commentisfree",
+        "sectionName": "Opinion",
+        "webPublicationDate": "2024-02-27T06:00:13Z",
+        "webTitle": "Most Britons say poor people deserve support. So what do Sunak’s Tories do? Cut, cut, cut | Polly Toynbee",
+        "webUrl": "https://www.theguardian.com/commentisfree/2024/feb/27/british-people-poverty-conservatives-cut-cut-cut",
+        "apiUrl": "https://content.guardianapis.com/commentisfree/2024/feb/27/british-people-poverty-conservatives-cut-cut-cut",
+        "fields": {
+          "headline": "Most Britons say poor people deserve support. So what do Sunak’s Tories do? Cut, cut, cut",
+          "thumbnail": "https://media.guim.co.uk/c5eb1e462a9cf78451a288ff02bac0bbda9ffe36/0_0_2560_1536/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/opinion",
+        "pillarName": "Opinion"
+      }
+    ]
+  }
+}
