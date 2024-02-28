@@ -138,7 +138,7 @@ function Posts() {
                 }}
                 colorScheme={currentPage === 1 ? "gray" : "orange"}
                 onClick={() => handlePageChange(1)}
-                disabled={currentPage === 1}
+                isDisabled={currentPage === 1}
               >
                 {"<<"}
               </Button>
@@ -147,7 +147,7 @@ function Posts() {
                   margin: 9,
                 }}
                 onClick={() => handlePageChange(currentPage - 1)}
-                disabled={currentPage === 1}
+                isDisabled={currentPage === 1 }
                 colorScheme={currentPage === 1 ? "gray" : "orange"}
               >
                 {"<"}
@@ -170,7 +170,7 @@ function Posts() {
                 }}
                 colorScheme={currentPage === lastPage ? "gray" : "orange"}
                 onClick={() => handlePageChange(currentPage + 1)}
-                disabled={currentPage === lastPage}
+                isDisabled={currentPage === lastPage}
               >
                 {">"}
               </Button>
@@ -179,7 +179,7 @@ function Posts() {
                   margin: 9,
                 }}
                 onClick={() => handlePageChange(lastPage)}
-                disabled={currentPage === lastPage}
+                isDisabled={currentPage === lastPage}
                 colorScheme={currentPage === lastPage ? "gray" : "orange"}
               >
                 {">>"}
